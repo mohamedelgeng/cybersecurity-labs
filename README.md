@@ -33,16 +33,6 @@ Web penetration-testing exercise against the deliberately vulnerable JANGOW 1.0.
 
 ---
 
-### Metasploitable2 Internal Penetration Test
-
-Internal penetration-testing exercise conducted against the deliberately vulnerable Metasploitable2 virtual machine.
-
-**Focus:** Reconnaissance, service enumeration, vulnerability identification, exploitation, privilege escalation, and remediation.
-
-**Tools:** Nmap, Metasploit Framework, Netcat, Kali Linux
-
-[View Project](03-metasploitable2-pentest/)
-
 > Additional cybersecurity projects will be added as they are completed and documented.
 
 ## 🧰 Technical Skills
