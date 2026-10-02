@@ -74,7 +74,7 @@ Expected Graduation: 2027
 
 ## 🔗 Connect With Me
 
-- [LinkedIn](YOUR_LINKEDIN_URL)
+- [LinkedIn](linkedin.com/in/mohamedgengeihy)
 - [GitHub](https://github.com/mohamedelgeng)
 
 ## ⚠️ Disclaimer
